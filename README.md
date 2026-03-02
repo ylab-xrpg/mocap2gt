@@ -7,5 +7,8 @@ By directly fusing **MoCap data** with **IMU measurements** from the device unde
 - **Suppression of inherent high-frequency MoCap jitter**
 - **Robust generation** of high-precision ground-truth trajectories
 
-🚧 The repository is currently **under preparation** and will be **open-sourced soon**. 
+## 📦 Code Migration
 
+The code for this project has been integrated into our new repository **HPGT** (High-Precision Ground Truth). Please visit the following link for the latest version and updates:
+
+🔗 **[https://github.com/ylab-xrpg/xr-hpgt](https://github.com/ylab-xrpg/xr-hpgt)**
